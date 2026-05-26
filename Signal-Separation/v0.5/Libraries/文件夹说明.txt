@@ -1,0 +1,5 @@
+Core
+核心相关，如启动文件、寄存器宏定义文件等
+
+STM32F4xx_StdPeriph_Driver
+官方库函数，即标准库文件夹
